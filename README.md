@@ -1,4 +1,4 @@
-# docker-django-react-postgres-nginx
+# docker-django-web-page
 
 #### About Project
 
