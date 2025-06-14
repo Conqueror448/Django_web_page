@@ -140,4 +140,4 @@ Admin panel can be found at [localhost/api/admin/](http://localhost/api/admin/)
 
 to stop it:
 
-```docker-compose -f docker-compose.prod.yml down```
+```docker-compose -f docker-compose.prod.yml down....testing 1, 2, 3```
